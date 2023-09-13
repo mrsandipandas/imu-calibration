@@ -22,11 +22,9 @@ In the example code we have calibrated the 2 IMUs at $90^{\circ}$ configuration.
  
 The sample logs are collected at 90 degree configuration.
 
-https://github.com/mrsandipandas/imu-calibration/assets/8643655/ef59473e-fc9b-4e4f-bff8-5472e43902e9
+https://github.com/mrsandipandas/imu-calibration/assets/8643655/789ac13b-775d-42e4-b2c3-196e8f018cdd
 
-https://github.com/mrsandipandas/imu-calibration/assets/8643655/858c6741-f6f9-4c87-8dc6-ba147bce629b
-
-
+https://github.com/mrsandipandas/imu-calibration/assets/8643655/f82b77f5-1d4a-45ba-8f5d-7d167d698d0c
 
 ### Running instructions on MATLAB
 ```
