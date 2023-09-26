@@ -47,6 +47,7 @@ Computed Fisher information matrix of batches of size n=100 and got the singular
 
 #### Citation
 If you find this useful, please cite us as follows:
+
 ```
 @article{das2023imu,
   title={IMU-based online multi-lidar calibration without lidar odometry},
