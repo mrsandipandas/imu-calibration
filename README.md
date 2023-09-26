@@ -45,3 +45,12 @@ Computed Fisher information matrix of batches of size n=100 and got the singular
   <img alt="Observability Analysis" src="images/observability.png" width="100%" title="Observability Analysis">
 </p>
 
+#### Citation
+If you find this useful, please cite us as follows:
+
+@article{das2023imu,
+  title={IMU-based online multi-lidar calibration without lidar odometry},
+  author={Das, Sandipan and Boberg, Bengt},
+  journal={arXiv preprint arXiv:2302.14735},
+  year={2023}
+}
